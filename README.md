@@ -1,7 +1,8 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4b0f6b,100:bb2cff&height=220&section=header&text=HELLO%20WORLD&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0f6b,100:bb2cff&height=230&section=header&text=Building%20Scalable%20Web%20Apps&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 </p>
+
 
 <!-- ===================== INTRO ===================== -->
 <h1 align="center">😎 I'M Pranjal!</h1>
