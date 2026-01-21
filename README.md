@@ -80,10 +80,50 @@
 
 ## 📌 Connect With Me
 
+---
+
+<h2 align="center">🤝 Connect With Me 🤝</h2>
+
 <p align="center">
-  <a href="https://github.com/Pranjal-3d">🐙 GitHub</a> •
-  <a href="mailto:pranjalsrivastava.2021@gmail.com">📧 Email</a>
+  <a href="mailto:pranjalsrivastava.2021@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pranjal-3d">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/YOUR_DEV">
+    <img src="https://skillicons.dev/icons?i=devto" height="45"/>
+  </a>
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
+</p>
+
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
