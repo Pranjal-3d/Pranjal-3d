@@ -6,8 +6,8 @@
 
 
 <!-- ===================== INTRO ===================== -->
-<h1 align="center">😎 I'M Pranjal!</h1>
-<h3 align="center">Frontened & Backened Developer</h3>
+<!-- <h1 align="center">😎 I'M Pranjal!</h1>
+<h3 align="center">Frontened & Backened Developer</h3> -->
 
 <p align="center">
   <a href="mailto:pranjalsrivastava.2021@gmail.com">📧 Email</a>
