@@ -5,7 +5,7 @@
 
 <!-- ===================== INTRO ===================== -->
 <h1 align="center">😎 I'M Pranjal!</h1>
-<h3 align="center">Digital Craftsman (Developer / Programmer)</h3>
+<h3 align="center">Frontened & Backened Developer</h3>
 
 <p align="center">
   <a href="mailto:pranjalsrivastava.2021@gmail.com">📧 Email</a>
@@ -81,8 +81,8 @@
 ## 📌 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Kiran1689">🐙 GitHub</a> •
-  <a href="mailto:kiranarugund197@gmail.com">📧 Email</a>
+  <a href="https://github.com/Pranjal-3d">🐙 GitHub</a> •
+  <a href="mailto:pranjalsrivastava.2021@gmail.com">📧 Email</a>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
