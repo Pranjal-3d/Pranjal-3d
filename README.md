@@ -4,12 +4,11 @@
 </p>
 
 <!-- ===================== INTRO ===================== -->
-<h1 align="center">😎 I'M KIRAN!</h1>
+<h1 align="center">😎 I'M Pranjal!</h1>
 <h3 align="center">Digital Craftsman (Developer / Programmer)</h3>
 
 <p align="center">
-  <a href="https://kiran1689.github.io">🌐 Portfolio</a> •
-  <a href="mailto:kiranarugund197@gmail.com">📧 Email</a>
+  <a href="mailto:pranjalsrivastava.2021@gmail.com">📧 Email</a>
 </p>
 
 ---
@@ -68,7 +67,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranjal-3d&theme=radical&row=1&column=6" />
 </p>
 
 ---
