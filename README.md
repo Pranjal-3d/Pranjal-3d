@@ -44,11 +44,11 @@
 ## 📊 GitHub Stats (A++ Style)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiran1689&show_icons=true&theme=radical&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranjal-3d&show_icons=true&theme=radical&border_radius=12" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran1689&theme=radical&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal-3d&theme=radical&border_radius=12" />
 </p>
 
 ---
