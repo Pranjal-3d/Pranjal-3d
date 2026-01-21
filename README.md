@@ -76,11 +76,7 @@
 
 
 
----
 
-## 📌 Connect With Me
-
----
 
 <h2 align="center">🤝 Connect With Me 🤝</h2>
 
@@ -125,7 +121,4 @@
 </p>
 
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bb2cff,100:4b0f6b&height=120&section=footer" />
-</p>
+
