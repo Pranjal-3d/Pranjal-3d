@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pranjal-3d/Pranjal-3d/main/assets/banner.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0f6b,100:bb2cff&height=240&section=header&text=Pranjal%20Srivastava&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Backend%20Focused&descSize=20&descAlignY=55" />
 </p>
 
 
