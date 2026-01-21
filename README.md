@@ -1,7 +1,8 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0f6b,100:bb2cff&height=230&section=header&text=Building%20Scalable%20Web%20Apps&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+  <img src="https://raw.githubusercontent.com/Pranjal-3d/Pranjal-3d/main/assets/banner.png" />
 </p>
+
 
 
 <!-- ===================== INTRO ===================== -->
