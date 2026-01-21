@@ -64,14 +64,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Pranjal-3d&theme=flat&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
+  <img 
+    src="https://github.com/Pranjal-3d/Pranjal-3d/blob/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
   />
 </p>
+
 
 
 ---
