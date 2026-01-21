@@ -67,10 +67,12 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Pranjal-3d&theme=flat&no-frame=true&column=5"
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Pranjal-3d&theme=flat&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
   />
 </p>
+
 
 ---
 
