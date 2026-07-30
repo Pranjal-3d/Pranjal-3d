@@ -69,11 +69,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranjal-3d&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal-3d&theme=react-dark&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Pranjal-3d/Pranjal-3d/output/github-contribution-grid-snake.svg">
 </p>
 
 
