@@ -69,7 +69,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Pranjal-3d/Pranjal-3d/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Pranjal-3d/Pranjal-3d/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 
