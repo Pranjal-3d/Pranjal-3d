@@ -16,13 +16,19 @@
 ---
 
 ## 👨‍💻 About Me
+<p>
+  <img align="right" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF">
+</p>
 
-- 💻 Full Stack Developer  
-- 🤖 Machine Learning Enthusiast  
-- ❤️ Python, React.js, Node.js, Django  
-- 🔐 REST APIs & Backend Systems  
-- ✍️ Technical Blogger  
-- 🌱 Student of Life — Learning Every Day  
+I'm a passionate Computer Science student and a full-stack developer specializing in the **MERN stack**. I love building scalable web applications and diving deep into database architecture and cloud technologies.
+
+- 🔭 I’m currently working on a hosting website project.
+- 🌱 I’m currently learning about **CI/CD pipelines**,and advanced  ML model integration.
+- 💬 Ask me about: **MERN Stack**, **React**, **Node.js**, and **Database Normalization**.
+- 📫 How to reach me: `gautamayu778@gmail.com`
+- 🔗 Connect with me: `https://linkedin.com/in/ayush-gautam-57a666380/`
+
+<br>
 
 ---
 
