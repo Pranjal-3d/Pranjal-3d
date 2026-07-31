@@ -25,8 +25,8 @@ I'm a passionate Computer Science student and a full-stack developer specializin
 - 🔭 I’m currently working on a hosting website project.
 - 🌱 I’m currently learning about **CI/CD pipelines**,and advanced  ML model integration.
 - 💬 Ask me about: **MERN Stack**, **React**, **Node.js**, and **Database Normalization**.
-- 📫 How to reach me: `gautamayu778@gmail.com`
-- 🔗 Connect with me: `https://linkedin.com/in/ayush-gautam-57a666380/`
+- 📫 How to reach me: `pranjalsrivastava.2024@gmail.com`
+- 🔗 Connect with me: `https://www.linkedin.com/in/pranjal-3d/`
 
 <br>
 
